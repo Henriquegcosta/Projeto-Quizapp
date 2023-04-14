@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="btnStart">Start</string>
+    <string name="hintText">Nome</string>
+    <string name="nos_diga_seu_nome">Nos diga seu nome</string>
+    <string name="submit">RESPONDER</string>
+</resources>
